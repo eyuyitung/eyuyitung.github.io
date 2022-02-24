@@ -8,6 +8,13 @@
   border-radius: 30%;
 
 }
+.name{
+  color: darkcyan;
+}
+
+.education{
+  font-size: calc(10px + 1.5vmin);
+}
 
 .links, li, a {
   display: inline;
@@ -30,7 +37,9 @@
   background-color: #ffffff;
   padding-top: 1%;
   min-height: 100vh;
+  max-width: 60%;
   margin: 0 auto;
+  word-wrap: normal;
   font-size: calc(10px + 2vmin);
   color: rgb(0, 0, 0);
 }
