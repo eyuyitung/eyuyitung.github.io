@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.8d41866a.css",
-    "main.js": "/static/js/main.dcfdb665.js",
+    "main.css": "/static/css/main.e6442499.css",
+    "main.js": "/static/js/main.42c64a67.js",
     "static/media/helmet_headshot.jpg": "/static/media/helmet_headshot.b77e1b1bb85254896bde.jpg",
     "static/media/Eric_Yuyitung_Resume.pdf": "/static/media/Eric_Yuyitung_Resume.0f0231d258af964d1d09.pdf",
     "index.html": "/index.html",
-    "main.8d41866a.css.map": "/static/css/main.8d41866a.css.map",
-    "main.dcfdb665.js.map": "/static/js/main.dcfdb665.js.map"
+    "main.e6442499.css.map": "/static/css/main.e6442499.css.map",
+    "main.42c64a67.js.map": "/static/js/main.42c64a67.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d41866a.css",
-    "static/js/main.dcfdb665.js"
+    "static/css/main.e6442499.css",
+    "static/js/main.42c64a67.js"
   ]
 }
