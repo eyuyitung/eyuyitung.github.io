@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={headshot} className="headshot" alt="my headshot"/>
-        <h2>Eric Yuyitung</h2>
-        <p>4th Year Mathematics & Engineering Student at Queen's University in Canada</p>
+        <h2 className='name'>Eric Yuyitung</h2>
+        <p className='education'>4th Year Mathematics & Engineering Student at Queen's University in Canada</p>
         <ul className='links'>
           <li> <a href='https://linkedin.com/in/eric-yuyitung' target='_blank' rel='noopener noreferrer'>linkedin </a></li>
           <li> <a href='https://github.com/eyuyitung' target='_blank' rel='noopener noreferrer'>github </a></li>
