@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={headshot} className="headshot" />
+        <img src={headshot} className="headshot" alt="my headshot"/>
         <h2>Eric Yuyitung</h2>
         <p>4th Year Mathematics & Engineering Student at Queen's University in Canada</p>
         <ul className='links'>
