@@ -1,9 +1,6 @@
 {
   "name": "Eric Yuyitung Portfolio",
   "short_name": "Eric Y",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://eyuyitung.github.io",
   "icons": [
     {
       "src": "favicon.ico",
