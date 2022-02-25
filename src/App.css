@@ -13,6 +13,9 @@
 }
 
 .education{
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px;
   font-size: calc(10px + 1.5vmin);
 }
 
